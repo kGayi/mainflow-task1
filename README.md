@@ -11,7 +11,7 @@
 To view or edit this landing page:
 
 # Clone the Repository
-- git clone https://github.com/yourusername/landing-page.git
+- git clone https://github.com/kGayi/mainflow-task1.git
 # Navigate to the Project Directory
 - cd landing-page
 # Open the index.html File
