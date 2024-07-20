@@ -13,6 +13,6 @@ To view or edit this landing page:
 # Clone the Repository
 - git clone https://github.com/kGayi/mainflow-task1.git
 # Navigate to the Project Directory
-- cd landing-page
+- cd landingpage
 # Open the index.html File
 - Open index.html in your web browser to view the landing page.
