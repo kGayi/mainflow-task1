@@ -1,4 +1,4 @@
-# E-commerce Landing Page
+# Landing Page
 # Description
 - This is a simple e-commerce landing page designed using HTML and CSS. The page features a responsive layout with a navigation bar, a hero section for promotions, and a footer. The design is modern and minimalistic, ideal for showcasing products or services.
 
