@@ -16,3 +16,5 @@ To view or edit this landing page:
 - cd landingpage
 # Open the index.html File
 - Open index.html in your web browser to view the landing page.
+# Sample Screenshot
+![Screenshot 2024-07-20 140034](https://github.com/user-attachments/assets/6980ac32-cb44-4992-be7b-d00406499df3)
